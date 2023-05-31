@@ -1,0 +1,6 @@
+../Core/Src/Qubic_emxAPI.c:24:18:emxCreateND_real_T	40	static
+../Core/Src/Qubic_emxAPI.c:47:18:emxCreateWrapperND_real_T	40	static
+../Core/Src/Qubic_emxAPI.c:72:18:emxCreateWrapper_real_T	32	static
+../Core/Src/Qubic_emxAPI.c:90:18:emxCreate_real_T	32	static
+../Core/Src/Qubic_emxAPI.c:108:6:emxDestroyArray_real_T	16	static
+../Core/Src/Qubic_emxAPI.c:118:6:emxInitArray_real_T	16	static

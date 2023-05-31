@@ -1,0 +1,4 @@
+rtGetInf.c:25:8:rtGetInf	1
+rtGetInf.c:35:10:rtGetInfF	1
+rtGetInf.c:45:8:rtGetMinusInf	1
+rtGetInf.c:55:10:rtGetMinusInfF	1
